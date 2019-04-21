@@ -1,3 +1,3 @@
-## Ejercicios del libro "MACHINE LEARNING WITH TENSORFLOW".
+## Apuntes y ejercicios del libro "MACHINE LEARNING WITH TENSORFLOW".
 
 ![portada](/img/portada.jpg)
